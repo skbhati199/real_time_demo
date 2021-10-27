@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142441901504",
+    "firebase_url": "https://infoskills-technology-dev-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "infoskills-technology-dev",
+    "storage_bucket": "infoskills-technology-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142441901504:android:04905a27157a11c21aac25",
+        "android_client_info": {
+          "package_name": "com.example.real_time_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142441901504-hekfa2fabu82j8uusbr011qdclq88ges.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgpx2xL-dSLu4Tt0K98zd4KSgJtbBe1tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142441901504-hekfa2fabu82j8uusbr011qdclq88ges.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
